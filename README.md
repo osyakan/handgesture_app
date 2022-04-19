@@ -1,5 +1,6 @@
 # handgesture_app
 pythonを利用したハンドジェスチャ操作のアプリケーション
+[デモプレイ](https://www.youtube.com/watch?v=jzVdSQoVtjo)
 
 ## confirm_cam.py
 使用できるカメラリソースIDの確認
